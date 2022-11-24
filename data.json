@@ -1,0 +1,3746 @@
+{
+  "a.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_AirHurt_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Float_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Float_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Hurt_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Hurt_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Idle_01.png": {
+    "offset": [
+      "(0",
+      "0)"
+    ]
+  },
+  "PainTendo_Idle_02.png": {
+    "offset": [
+      "-0.5",
+      "0"
+    ]
+  },
+  "PainTendo_Idle_03.png": {
+    "offset": [
+      "-1",
+      "0"
+    ]
+  },
+  "PainTendo_Idle_04.png": {
+    "offset": [
+      "-0.5",
+      "0"
+    ]
+  },
+  "PainTendo_Idle_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Idle_06.png": {
+    "offset": [
+      "0.5",
+      "0"
+    ]
+  },
+  "PainTendo_Idle_07.png": {
+    "offset": [
+      "0.5",
+      "0"
+    ]
+  },
+  "PainTendo_Idle_08.png": {
+    "offset": [
+      "0.5",
+      "0"
+    ]
+  },
+  "PainTendo_KnockDown_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_KnockDown_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_KnockDown_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_KnockDown_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_KnockDown_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_03.png": {
+    "offset": [
+      "20.5",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_04.png": {
+    "offset": [
+      "17.5",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_05.png": {
+    "offset": [
+      "-8",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_06.png": {
+    "offset": [
+      "-10",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_07.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_08.png": {
+    "offset": [
+      "18",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_09.png": {
+    "offset": [
+      "16",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_10.png": {
+    "offset": [
+      "-8",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_11.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_12.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_13.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_14.png": {
+    "offset": [
+      "-8.5",
+      "0"
+    ]
+  },
+  "PainTendo_NAttack_15.png": {
+    "offset": [
+      "1",
+      "0"
+    ]
+  },
+  "PainTendo_Skill01_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill01_02.png": {
+    "offset": [
+      "9.5",
+      "0"
+    ]
+  },
+  "PainTendo_Skill01_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill01_04.png": {
+    "offset": [
+      "137",
+      "-105"
+    ]
+  },
+  "PainTendo_Skill01_05.png": {
+    "offset": [
+      "137",
+      "-105"
+    ]
+  },
+  "PainTendo_Skill01_06.png": {
+    "offset": [
+      "137",
+      "-105"
+    ]
+  },
+  "PainTendo_Skill01_07.png": {
+    "offset": [
+      "137",
+      "-105"
+    ]
+  },
+  "PainTendo_Skill01_08.png": {
+    "offset": [
+      "137",
+      "-105"
+    ]
+  },
+  "PainTendo_Skill01_09.png": {
+    "offset": [
+      "137",
+      "-105"
+    ]
+  },
+  "PainTendo_Skill02_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill02_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill02_03.png": {
+    "offset": [
+      "1",
+      "0"
+    ]
+  },
+  "PainTendo_Skill02_04.png": {
+    "offset": [
+      "3",
+      "0"
+    ]
+  },
+  "PainTendo_Skill02_05.png": {
+    "offset": [
+      "4.5",
+      "0"
+    ]
+  },
+  "PainTendo_Skill02_06.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill02_07.png": {
+    "offset": [
+      "0",
+      "3"
+    ]
+  },
+  "PainTendo_Skill02_08.png": {
+    "offset": [
+      "0",
+      "112"
+    ]
+  },
+  "PainTendo_Skill02_09.png": {
+    "offset": [
+      "0",
+      "68"
+    ]
+  },
+  "PainTendo_Skill02_10.png": {
+    "offset": [
+      "50",
+      "-52"
+    ]
+  },
+  "PainTendo_Skill02_11.png": {
+    "offset": [
+      "50",
+      "-52"
+    ]
+  },
+  "PainTendo_Skill02_12.png": {
+    "offset": [
+      "50",
+      "-52"
+    ]
+  },
+  "PainTendo_Skill02_13.png": {
+    "offset": [
+      "50",
+      "-52"
+    ]
+  },
+  "PainTendo_Skill02_14.png": {
+    "offset": [
+      "50",
+      "-52"
+    ]
+  },
+  "PainTendo_Skill02_15.png": {
+    "offset": [
+      "50",
+      "-52"
+    ]
+  },
+  "PainTendo_Skill02_16.png": {
+    "offset": [
+      "50",
+      "-52"
+    ]
+  },
+  "PainTendo_Skill03_01.png": {
+    "offset": [
+      "-4",
+      "0"
+    ]
+  },
+  "PainTendo_Skill03_02.png": {
+    "offset": [
+      "-1.5",
+      "0"
+    ]
+  },
+  "PainTendo_Skill03_03.png": {
+    "offset": [
+      "5",
+      "0"
+    ]
+  },
+  "PainTendo_Skill03_04.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_05.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_06.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_07.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_08.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_09.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_10.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_11.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_12.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_13.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_14.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill03_15.png": {
+    "offset": [
+      "8.5",
+      "-35"
+    ]
+  },
+  "PainTendo_Skill04_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill04_02.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_03.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_04.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_05.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_06.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_07.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_08.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_09.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_10.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_11.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_12.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_13.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_14.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_15.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_16.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_17.png": {
+    "offset": [
+      "43.5",
+      "-38"
+    ]
+  },
+  "PainTendo_Skill04_18.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_19.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_20.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_21.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_22.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_23.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_24.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_25.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_26.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_27.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_28.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill04_29.png": {
+    "offset": [
+      "10.5",
+      "-55"
+    ]
+  },
+  "PainTendo_Skill05_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill05_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Skill05_03.png": {
+    "offset": [
+      "10",
+      "0"
+    ]
+  },
+  "PainTendo_Skill05_04.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_05.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_06.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_07.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_08.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_09.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_10.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_11.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_12.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_13.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_14.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_15.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_16.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_17.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_18.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_19.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_20.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_21.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_22.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_23.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_24.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_25.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_26.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_27.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_28.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_29.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_30.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_31.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_32.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_33.png": {
+    "offset": [
+      "129",
+      "-78"
+    ]
+  },
+  "PainTendo_Skill05_34.png": {
+    "offset": [
+      "-2",
+      "0"
+    ]
+  },
+  "PainTendo_Skill05_35.png": {
+    "offset": [
+      "-2",
+      "0"
+    ]
+  },
+  "PainTendo_Skill05_36.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Walk_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Walk_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Walk_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Walk_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Walk_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Walk_06.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Attack_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "PainTendo_Attack_02.png": {
+    "offset": [
+      "-4",
+      "0"
+    ]
+  },
+  "PainTendo_Attack_03.png": {
+    "offset": [
+      "14",
+      "0"
+    ]
+  },
+  "PainTendo_Attack_04.png": {
+    "offset": [
+      "60",
+      "0"
+    ]
+  },
+  "PainTendo_Attack_05.png": {
+    "offset": [
+      "60",
+      "0"
+    ]
+  },
+  "PainTendo_Attack_06.png": {
+    "offset": [
+      "60",
+      "0"
+    ]
+  },
+  "PainTendo_Attack_07.png": {
+    "offset": [
+      "60",
+      "0"
+    ]
+  },
+  "PainTendo_Dust_01.png": {
+    "offset": [
+      "25",
+      "-70"
+    ]
+  },
+  "PainTendo_Dust_02.png": {
+    "offset": [
+      "25",
+      "-70"
+    ]
+  },
+  "PainTendo_Dust_03.png": {
+    "offset": [
+      "25",
+      "-70"
+    ]
+  },
+  "PainTendo_Dust_04.png": {
+    "offset": [
+      "25",
+      "-70"
+    ]
+  },
+  "Roket_Move_01.png": {
+    "offset": [
+      "100",
+      "55"
+    ]
+  },
+  "Roket_Move_02.png": {
+    "offset": [
+      "100",
+      "55"
+    ]
+  },
+  "Roket_Move_03.png": {
+    "offset": [
+      "100",
+      "55"
+    ]
+  },
+  "Roket_Move_04.png": {
+    "offset": [
+      "100",
+      "-30"
+    ]
+  },
+  "Roket_Move_05.png": {
+    "offset": [
+      "100",
+      "-30"
+    ]
+  },
+  "Roket_Move_06.png": {
+    "offset": [
+      "100",
+      "-30"
+    ]
+  },
+  "Roket_Move_07.png": {
+    "offset": [
+      "100",
+      "-30"
+    ]
+  },
+  "Roket_Move_08.png": {
+    "offset": [
+      "100",
+      "-30"
+    ]
+  },
+  "Roket_Move_09.png": {
+    "offset": [
+      "100",
+      "-30"
+    ]
+  },
+  "Gakidou_Move_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_06.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_07.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_08.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_09.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Gakidou_Move_16.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Banteng_Move_01.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_02.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_03.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_04.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_05.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_06.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_07.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_08.png": {
+    "offset": [
+      "25",
+      "-1"
+    ]
+  },
+  "Banteng_Move_09.png": {
+    "offset": [
+      "25",
+      "-1"
+    ]
+  },
+  "Banteng_Move_10.png": {
+    "offset": [
+      "25",
+      "10"
+    ]
+  },
+  "Banteng_Move_11.png": {
+    "offset": [
+      "25",
+      "5"
+    ]
+  },
+  "Banteng_Move_12.png": {
+    "offset": [
+      "25",
+      "5"
+    ]
+  },
+  "Banteng_Move_13.png": {
+    "offset": [
+      "25",
+      "-1"
+    ]
+  },
+  "Banteng_Move_14.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_15.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_16.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_17.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_18.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_19.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Banteng_Move_20.png": {
+    "offset": [
+      "21",
+      "-47"
+    ]
+  },
+  "Exa Septiko.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Six_Path_Of_Pain_01.png": {
+    "offset": [
+      "-3",
+      "0"
+    ]
+  },
+  "Six_Path_Of_Pain_02.png": {
+    "offset": [
+      "-3",
+      "0"
+    ]
+  },
+  "Six_Path_Of_Pain_03.png": {
+    "offset": [
+      "-3",
+      "0"
+    ]
+  },
+  "Six_Path_Of_Pain_04.png": {
+    "offset": [
+      "82",
+      "0"
+    ]
+  },
+  "Six_Path_Of_Pain_05.png": {
+    "offset": [
+      "-52",
+      "0"
+    ]
+  },
+  "Six_Path_Of_Pain_06.png": {
+    "offset": [
+      "-29",
+      "-159"
+    ]
+  },
+  "Six_Path_Of_Pain_07.png": {
+    "offset": [
+      "-19",
+      "-119"
+    ]
+  },
+  "Six_Path_Of_Pain_08.png": {
+    "offset": [
+      "-28.5",
+      "-146"
+    ]
+  },
+  "Six_Path_Of_Pain_09.png": {
+    "offset": [
+      "-28.5",
+      "-106"
+    ]
+  },
+  "Six_Path_Of_Pain_10.png": {
+    "offset": [
+      "9",
+      "-68"
+    ]
+  },
+  "Six_Path_Of_Pain_11.png": {
+    "offset": [
+      "17.5",
+      "-108"
+    ]
+  },
+  "Six_Path_Of_Pain_12.png": {
+    "offset": [
+      "45.5",
+      "-47"
+    ]
+  },
+  "Six_Path_Of_Pain_13.png": {
+    "offset": [
+      "-28.5",
+      "-167"
+    ]
+  },
+  "Six_Path_Of_Pain_14.png": {
+    "offset": [
+      "91",
+      "-147"
+    ]
+  },
+  "Six_Path_Of_Pain_15.png": {
+    "offset": [
+      "3",
+      "-60"
+    ]
+  },
+  "Six_Path_Of_Pain_16.png": {
+    "offset": [
+      "19.5",
+      "-10"
+    ]
+  },
+  "Six_Path_Of_Pain_17.png": {
+    "offset": [
+      "29",
+      "-99"
+    ]
+  },
+  "Six_Path_Of_Pain_18.png": {
+    "offset": [
+      "1.5",
+      "-59"
+    ]
+  },
+  "Six_Path_Of_Pain_19.png": {
+    "offset": [
+      "-38.5",
+      "-34"
+    ]
+  },
+  "Six_Path_Of_Pain_20.png": {
+    "offset": [
+      "-57.5",
+      "-74"
+    ]
+  },
+  "Six_Path_Of_Pain_21.png": {
+    "offset": [
+      "19.5",
+      "-114"
+    ]
+  },
+  "Six_Path_Of_Pain_22.png": {
+    "offset": [
+      "-37.5",
+      "-119"
+    ]
+  },
+  "Six_Path_Of_Pain_23.png": {
+    "offset": [
+      "-38",
+      "0"
+    ]
+  },
+  "Six_Path_Of_Pain_24.png": {
+    "offset": [
+      "10.5",
+      "0"
+    ]
+  },
+  "Tendo_Skill04_01.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_02.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_03.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_04.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_05.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_06.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_07.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_08.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_09.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_010.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_011.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_012.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_013.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_014.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_015.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_016.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_017.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_018.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_019.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_020.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_021.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_022.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_023.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_024.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_025.png": {
+    "offset": [
+      "3",
+      "-15"
+    ]
+  },
+  "Tendo_Skill04_026.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_027.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_028.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_029.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_030.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_031.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_032.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_033.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "Tendo_Skill04_034.png": {
+    "offset": [
+      "38.5",
+      "-47"
+    ]
+  },
+  "KotetsuFlog_Float_01.png": {
+    "offset": [
+      "-1",
+      "0"
+    ]
+  },
+  "KotetsuFlog_Idle_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "KotetsuFlog_KnockDown_01.png": {
+    "offset": [
+      "0",
+      "-1"
+    ]
+  },
+  "KotetsuFlog_KnockDown_02.png": {
+    "offset": [
+      "0",
+      "-10"
+    ]
+  },
+  "KotetsuFlog_KnockDown_03.png": {
+    "offset": [
+      "0",
+      "-10"
+    ]
+  },
+  "KotetsuFlog_KnockDown_04.png": {
+    "offset": [
+      "0",
+      "-15"
+    ]
+  },
+  "KotetsuFlog_NAttack_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "KotetsuFlog_NAttack_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "KotetsuFlog_NAttack_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "KotetsuFlog_NAttack_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "KotetsuFlog_Walk_01.png": {
+    "offset": [
+      "0",
+      "-13"
+    ]
+  },
+  "KotetsuFlog_Walk_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "KotetsuFlog_Walk_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Duar_Move_01.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_02.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_03.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_04.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_05.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_06.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_07.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_08.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_09.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_10.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_11.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_12.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_13.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_14.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_15.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_16.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Duar_Move_17.png": {
+    "offset": [
+      "0",
+      "-148"
+    ]
+  },
+  "Bakfbek_01.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_02.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_03.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_04.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_05.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_06.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_07.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_08.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_09.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_10.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_11.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_12.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Bakfbek_13.png": {
+    "offset": [
+      "-12.5",
+      "-85"
+    ]
+  },
+  "Recall_01.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_02.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_03.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_04.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_05.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_06.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_07.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_08.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_09.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "Recall_10.png": {
+    "offset": [
+      "2",
+      "-54"
+    ]
+  },
+  "by PutrASense!.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_AirHurt_01.png": {
+    "offset": [
+      "2",
+      "0"
+    ]
+  },
+  "Nagato_Float_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Float_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Float_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Hurt_01.png": {
+    "offset": [
+      "0.5",
+      "0"
+    ]
+  },
+  "Nagato_Hurt_02.png": {
+    "offset": [
+      "-2",
+      "0"
+    ]
+  },
+  "Nagato_Hurt_03.png": {
+    "offset": [
+      "-3",
+      "0"
+    ]
+  },
+  "Nagato_Idle_01.png": {
+    "offset": [
+      "3.5",
+      "0"
+    ]
+  },
+  "Nagato_Idle_02.png": {
+    "offset": [
+      "3.5",
+      "0"
+    ]
+  },
+  "Nagato_Idle_03.png": {
+    "offset": [
+      "4",
+      "0"
+    ]
+  },
+  "Nagato_Idle_04.png": {
+    "offset": [
+      "3.5",
+      "0"
+    ]
+  },
+  "Nagato_Idle_05.png": {
+    "offset": [
+      "1",
+      "0"
+    ]
+  },
+  "Nagato_Idle_06.png": {
+    "offset": [
+      "1",
+      "0"
+    ]
+  },
+  "Nagato_Idle_07.png": {
+    "offset": [
+      "1",
+      "0"
+    ]
+  },
+  "Nagato_Idle_08.png": {
+    "offset": [
+      "1",
+      "0"
+    ]
+  },
+  "Nagato_Idle_09.png": {
+    "offset": [
+      "1",
+      "0"
+    ]
+  },
+  "Nagato_KnockDown_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_KnockDown_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_KnockDown_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_KnockDown_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_KnockDown_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_NAttack_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_NAttack_02.png": {
+    "offset": [
+      "-10.5",
+      "0"
+    ]
+  },
+  "Nagato_NAttack_03.png": {
+    "offset": [
+      "-1.5",
+      "0"
+    ]
+  },
+  "Nagato_NAttack_04.png": {
+    "offset": [
+      "-0.5",
+      "-5"
+    ]
+  },
+  "Nagato_NAttack_05.png": {
+    "offset": [
+      "-0.5",
+      "-5"
+    ]
+  },
+  "Nagato_NAttack_06.png": {
+    "offset": [
+      "-0.5",
+      "-5"
+    ]
+  },
+  "Nagato_NAttack_07.png": {
+    "offset": [
+      "-0.5",
+      "-5"
+    ]
+  },
+  "Nagato_NAttack_08.png": {
+    "offset": [
+      "-2",
+      "0"
+    ]
+  },
+  "Nagato_NAttack_09.png": {
+    "offset": [
+      "-0.5",
+      "0"
+    ]
+  },
+  "Nagato_NAttack_10.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_NAttack_11.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_NAttack_12.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_NAttack_13.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_NAttack_14.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_NAttack_15.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_NAttack_16.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_NAttack_17.png": {
+    "offset": [
+      "-24.5",
+      "-16"
+    ]
+  },
+  "Nagato_Skill01_01.png": {
+    "offset": [
+      "2.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill01_02.png": {
+    "offset": [
+      "11.5",
+      "-1"
+    ]
+  },
+  "Nagato_Skill01_03.png": {
+    "offset": [
+      "11.5",
+      "-1"
+    ]
+  },
+  "Nagato_Skill01_04.png": {
+    "offset": [
+      "11.5",
+      "-1"
+    ]
+  },
+  "Nagato_Skill01_05.png": {
+    "offset": [
+      "11.5",
+      "-1"
+    ]
+  },
+  "Nagato_Skill01_06.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_07.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_08.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_09.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_10.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_11.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_12.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_13.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_14.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_15.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_16.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_17.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_18.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_19.png": {
+    "offset": [
+      "-1",
+      "-45"
+    ]
+  },
+  "Nagato_Skill01_20.png": {
+    "offset": [
+      "-1",
+      "0"
+    ]
+  },
+  "Nagato_Skill02_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Skill02_02.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_03.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_04.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_05.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_06.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_07.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_08.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_09.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_10.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_11.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_12.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_13.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_14.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_15.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_16.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill02_17.png": {
+    "offset": [
+      "53.5",
+      "-47"
+    ]
+  },
+  "Nagato_Skill03_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Skill03_02.png": {
+    "offset": [
+      "11.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill03_03.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_04.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_05.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_06.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_07.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_08.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_09.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_10.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_11.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_12.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_13.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_14.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_15.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_16.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_17.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill03_18.png": {
+    "offset": [
+      "3",
+      "-25"
+    ]
+  },
+  "Nagato_Skill04_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_02.png": {
+    "offset": [
+      "-10.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_03.png": {
+    "offset": [
+      "-3",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_04.png": {
+    "offset": [
+      "17.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_05.png": {
+    "offset": [
+      "17.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_06.png": {
+    "offset": [
+      "17.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_07.png": {
+    "offset": [
+      "17.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_08.png": {
+    "offset": [
+      "14.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_09.png": {
+    "offset": [
+      "14.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill04_10.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_11.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_12.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_13.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_14.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_15.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_16.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_17.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_18.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_19.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_20.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_21.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_22.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_23.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_24.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_25.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_26.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_27.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill04_28.png": {
+    "offset": [
+      "-5.5",
+      "-53"
+    ]
+  },
+  "Nagato_Skill05_01.png": {
+    "offset": [
+      "-3.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill05_02.png": {
+    "offset": [
+      "-2.5",
+      "0"
+    ]
+  },
+  "Nagato_Skill05_03.png": {
+    "offset": [
+      "10",
+      "0"
+    ]
+  },
+  "Nagato_Skill05_04.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_05.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_06.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_07.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_08.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_09.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_10.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_11.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_12.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_13.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_14.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_15.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_16.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_17.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_18.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_19.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_20.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_21.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_22.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_23.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_24.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_25.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_26.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_27.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_28.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_29.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_30.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_31.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_32.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Skill05_33.png": {
+    "offset": [
+      "129",
+      "-49"
+    ]
+  },
+  "Nagato_Walk_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Walk_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Walk_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Walk_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Walk_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Nagato_Walk_06.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill05_01.png": {
+    "offset": [
+      "235",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_02.png": {
+    "offset": [
+      "235",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_03.png": {
+    "offset": [
+      "238",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_04.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_05.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_06.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill04_01.png": {
+    "offset": [
+      "-2.5",
+      "-88"
+    ]
+  },
+  "Pain_Skill04_02.png": {
+    "offset": [
+      "-2.5",
+      "-88"
+    ]
+  },
+  "Pain_Skill05_07.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "1661521421472.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Hurt_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Float_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_AirHurt_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Idle_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Idle_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill02_01.png": {
+    "offset": [
+      "143",
+      "-72"
+    ]
+  },
+  "Pain_Float_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Walk_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Walk_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Walk_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill05_08.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_09.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_10.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_11.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_12.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Walk_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill02_02.png": {
+    "offset": [
+      "143.5",
+      "-72"
+    ]
+  },
+  "Pain_Walk_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Walk_06.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Idle_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Idle_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill02_03.png": {
+    "offset": [
+      "142",
+      "-72"
+    ]
+  },
+  "Pain_Idle_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Idle_06.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Idle_07.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill02_04.png": {
+    "offset": [
+      "145",
+      "-72"
+    ]
+  },
+  "Pain_Skill05_13.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill01_01.png": {
+    "offset": [
+      "20",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_02.png": {
+    "offset": [
+      "1.5",
+      "-63"
+    ]
+  },
+  "Pain_Skill05_14.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_15.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_16.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_17.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_18.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_19.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill04_03.png": {
+    "offset": [
+      "-3.5",
+      "-88"
+    ]
+  },
+  "Pain_Skill04_04.png": {
+    "offset": [
+      "-0.5",
+      "-88"
+    ]
+  },
+  "Pain_Skill04_05.png": {
+    "offset": [
+      "-0.5",
+      "-88"
+    ]
+  },
+  "Pain_Skill04_06.png": {
+    "offset": [
+      "-0.5",
+      "-88"
+    ]
+  },
+  "Pain_Skill04_07.png": {
+    "offset": [
+      "8",
+      "-86"
+    ]
+  },
+  "Pain_Skill05_20.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_21.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill02_05.png": {
+    "offset": [
+      "145",
+      "-72"
+    ]
+  },
+  "Pain_Skill02_06.png": {
+    "offset": [
+      "145",
+      "-72"
+    ]
+  },
+  "Pain_Skill02_07.png": {
+    "offset": [
+      "145",
+      "-72"
+    ]
+  },
+  "Pain_Skill02_08.png": {
+    "offset": [
+      "156",
+      "-72"
+    ]
+  },
+  "Pain_Idle_08.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill02_09.png": {
+    "offset": [
+      "149.5",
+      "-72"
+    ]
+  },
+  "Pain_Skill02_10.png": {
+    "offset": [
+      "146",
+      "-72"
+    ]
+  },
+  "Pain_Skill05_22.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_NAttack_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Float_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_06.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_07.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_08.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill05_23.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill04_08.png": {
+    "offset": [
+      "8",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_09.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_10.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_11.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill05_24.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill04_12.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill05_25.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill04_13.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_14.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_15.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill01_07.png": {
+    "offset": [
+      "19",
+      "-61"
+    ]
+  },
+  "Pain_Skill04_16.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_17.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_18.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_KnockDown_01.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_KnockDown_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_KnockDown_03.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_KnockDown_04.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_KnockDown_05.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill04_19.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_NAttack_09.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_10.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill01_03.png": {
+    "offset": [
+      "6",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_04.png": {
+    "offset": [
+      "6",
+      "-63"
+    ]
+  },
+  "Pain_NAttack_11.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_12.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_13.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_NAttack_14.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill04_20.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_21.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Hurt_02.png": {
+    "offset": [
+      "0",
+      "0"
+    ]
+  },
+  "Pain_Skill05_26.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_27.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_28.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_29.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_30.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_31.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill04_22.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill04_23.png": {
+    "offset": [
+      "4",
+      "-86"
+    ]
+  },
+  "Pain_Skill05_32.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill02_11.png": {
+    "offset": [
+      "146",
+      "-72"
+    ]
+  },
+  "Pain_Skill02_12.png": {
+    "offset": [
+      "146",
+      "-72"
+    ]
+  },
+  "Pain_Skill02_13.png": {
+    "offset": [
+      "146",
+      "-72"
+    ]
+  },
+  "Pain_Skill05_33.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_34.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_35.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_36.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_37.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_38.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill02_14.png": {
+    "offset": [
+      "146",
+      "-72"
+    ]
+  },
+  "Pain_Skill05_39.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_40.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill05_41.png": {
+    "offset": [
+      "228",
+      "-99"
+    ]
+  },
+  "Pain_Skill03_01.png": {
+    "offset": [
+      "-2",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_02.png": {
+    "offset": [
+      "-2",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_03.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill01_05.png": {
+    "offset": [
+      "6",
+      "-63"
+    ]
+  },
+  "Pain_Skill03_04.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_05.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_06.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill01_06.png": {
+    "offset": [
+      "6",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_08.png": {
+    "offset": [
+      "19",
+      "-61"
+    ]
+  },
+  "Pain_Skill01_09.png": {
+    "offset": [
+      "19",
+      "-61"
+    ]
+  },
+  "Pain_Skill01_10.png": {
+    "offset": [
+      "19.5",
+      "-61"
+    ]
+  },
+  "Pain_Skill01_11.png": {
+    "offset": [
+      "9",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_12.png": {
+    "offset": [
+      "4",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_13.png": {
+    "offset": [
+      "9.5",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_14.png": {
+    "offset": [
+      "10",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_15.png": {
+    "offset": [
+      "10",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_16.png": {
+    "offset": [
+      "10",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_17.png": {
+    "offset": [
+      "10",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_18.png": {
+    "offset": [
+      "10",
+      "-63"
+    ]
+  },
+  "Pain_Skill01_19.png": {
+    "offset": [
+      "10",
+      "-63"
+    ]
+  },
+  "Pain_Skill03_07.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill01_20.png": {
+    "offset": [
+      "10",
+      "-63"
+    ]
+  },
+  "Pain_Skill03_08.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_09.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_10.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill01_21.png": {
+    "offset": [
+      "9",
+      "-63"
+    ]
+  },
+  "Pain_Skill03_11.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_12.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_13.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_14.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_15.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_16.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  },
+  "Pain_Skill03_17.png": {
+    "offset": [
+      "-6",
+      "-51"
+    ]
+  }
+}
